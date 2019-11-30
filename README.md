@@ -44,6 +44,8 @@ The core functions are implemented in the [caffe](https://github.com/BVLC/caffe)
 
 ## Usage
 
+[Matlab data files and pretrained GooLeNet V2 model on ImageNet 2012](https://drive.google.com/drive/folders/1PHBiqQ8-t4DxgMgERX_eDA8LP6gayW6T?usp=sharing)
+
 * Download the corresponding data files of each dataset. 
 
 * Unzip and Copy to their corresponding training folders.
