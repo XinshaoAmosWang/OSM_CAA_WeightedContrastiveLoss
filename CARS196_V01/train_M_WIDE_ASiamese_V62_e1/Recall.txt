@@ -1,0 +1,81 @@
+iter: 1000, rank1: 0.558, rank2: 0.687, rank4: 0.789, rank8: 0.869, rank16: 0.926, rank32: 0.962
+iter: 1250, rank1: 0.624, rank2: 0.744, rank4: 0.835, rank8: 0.898, rank16: 0.942, rank32: 0.971
+iter: 1500, rank1: 0.610, rank2: 0.731, rank4: 0.824, rank8: 0.893, rank16: 0.939, rank32: 0.968
+iter: 1750, rank1: 0.675, rank2: 0.784, rank4: 0.865, rank8: 0.920, rank16: 0.957, rank32: 0.978
+iter: 2000, rank1: 0.663, rank2: 0.774, rank4: 0.862, rank8: 0.916, rank16: 0.954, rank32: 0.977
+iter: 2250, rank1: 0.660, rank2: 0.775, rank4: 0.856, rank8: 0.916, rank16: 0.953, rank32: 0.976
+iter: 2500, rank1: 0.662, rank2: 0.778, rank4: 0.860, rank8: 0.917, rank16: 0.954, rank32: 0.978
+
+iter: 2750, rank1: 0.665, rank2: 0.775, rank4: 0.857, rank8: 0.915, rank16: 0.954, rank32: 0.978
+iter: 3000, rank1: 0.673, rank2: 0.785, rank4: 0.866, rank8: 0.921, rank16: 0.957, rank32: 0.980
+
+iter: 3250, rank1: 0.697, rank2: 0.802, rank4: 0.879, rank8: 0.929, rank16: 0.961, rank32: 0.982
+
+iter: 3500, rank1: 0.710, rank2: 0.817, rank4: 0.886, rank8: 0.934, rank16: 0.966, rank32: 0.984
+iter: 3750, rank1: 0.714, rank2: 0.820, rank4: 0.889, rank8: 0.936, rank16: 0.965, rank32: 0.984
+iter: 4000, rank1: 0.722, rank2: 0.821, rank4: 0.891, rank8: 0.937, rank16: 0.966, rank32: 0.984
+iter: 4250, rank1: 0.720, rank2: 0.827, rank4: 0.895, rank8: 0.939, rank16: 0.969, rank32: 0.985
+
+iter: 4500, rank1: 0.728, rank2: 0.830, rank4: 0.899, rank8: 0.941, rank16: 0.970, rank32: 0.985
+iter: 4750, rank1: 0.734, rank2: 0.833, rank4: 0.898, rank8: 0.945, rank16: 0.971, rank32: 0.986
+iter: 5000, rank1: 0.729, rank2: 0.830, rank4: 0.897, rank8: 0.943, rank16: 0.971, rank32: 0.987
+iter: 5250, rank1: 0.729, rank2: 0.828, rank4: 0.897, rank8: 0.943, rank16: 0.973, rank32: 0.987
+iter: 5500, rank1: 0.731, rank2: 0.832, rank4: 0.900, rank8: 0.944, rank16: 0.972, rank32: 0.987
+iter: 5750, rank1: 0.731, rank2: 0.834, rank4: 0.897, rank8: 0.947, rank16: 0.972, rank32: 0.986
+
+iter: 6000, rank1: 0.736, rank2: 0.836, rank4: 0.901, rank8: 0.945, rank16: 0.971, rank32: 0.986
+iter: 6250, rank1: 0.739, rank2: 0.837, rank4: 0.900, rank8: 0.946, rank16: 0.971, rank32: 0.985
+iter: 6500, rank1: 0.736, rank2: 0.836, rank4: 0.901, rank8: 0.946, rank16: 0.972, rank32: 0.986
+iter: 6750, rank1: 0.738, rank2: 0.838, rank4: 0.901, rank8: 0.948, rank16: 0.973, rank32: 0.986
+
+iter: 7000, rank1: 0.740, rank2: 0.838, rank4: 0.902, rank8: 0.948, rank16: 0.973, rank32: 0.986
+iter: 7250, rank1: 0.739, rank2: 0.839, rank4: 0.903, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 7500, rank1: 0.739, rank2: 0.838, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 7750, rank1: 0.742, rank2: 0.838, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 8000, rank1: 0.740, rank2: 0.836, rank4: 0.900, rank8: 0.946, rank16: 0.971, rank32: 0.985
+
+iter: 8250, rank1: 0.739, rank2: 0.834, rank4: 0.901, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 8500, rank1: 0.738, rank2: 0.835, rank4: 0.901, rank8: 0.945, rank16: 0.973, rank32: 0.985
+iter: 8750, rank1: 0.737, rank2: 0.836, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 9000, rank1: 0.738, rank2: 0.836, rank4: 0.900, rank8: 0.947, rank16: 0.974, rank32: 0.986
+iter: 9250, rank1: 0.737, rank2: 0.836, rank4: 0.901, rank8: 0.947, rank16: 0.973, rank32: 0.986
+iter: 9500, rank1: 0.737, rank2: 0.834, rank4: 0.901, rank8: 0.947, rank16: 0.973, rank32: 0.987
+iter: 9750, rank1: 0.736, rank2: 0.836, rank4: 0.900, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 10000, rank1: 0.737, rank2: 0.833, rank4: 0.901, rank8: 0.946, rank16: 0.972, rank32: 0.986
+iter: 1000, rank1: 0.558, rank2: 0.687, rank4: 0.789, rank8: 0.869, rank16: 0.926, rank32: 0.962
+iter: 1250, rank1: 0.624, rank2: 0.744, rank4: 0.835, rank8: 0.898, rank16: 0.942, rank32: 0.971
+iter: 1500, rank1: 0.610, rank2: 0.731, rank4: 0.824, rank8: 0.893, rank16: 0.939, rank32: 0.968
+iter: 1750, rank1: 0.675, rank2: 0.784, rank4: 0.865, rank8: 0.920, rank16: 0.957, rank32: 0.978
+iter: 2000, rank1: 0.663, rank2: 0.774, rank4: 0.862, rank8: 0.916, rank16: 0.954, rank32: 0.977
+iter: 2250, rank1: 0.660, rank2: 0.775, rank4: 0.856, rank8: 0.916, rank16: 0.953, rank32: 0.976
+iter: 2500, rank1: 0.662, rank2: 0.778, rank4: 0.860, rank8: 0.917, rank16: 0.954, rank32: 0.978
+iter: 2750, rank1: 0.665, rank2: 0.775, rank4: 0.857, rank8: 0.915, rank16: 0.954, rank32: 0.978
+iter: 3000, rank1: 0.673, rank2: 0.785, rank4: 0.866, rank8: 0.921, rank16: 0.957, rank32: 0.980
+iter: 3250, rank1: 0.697, rank2: 0.802, rank4: 0.879, rank8: 0.929, rank16: 0.961, rank32: 0.982
+iter: 3500, rank1: 0.710, rank2: 0.817, rank4: 0.886, rank8: 0.934, rank16: 0.966, rank32: 0.984
+iter: 3750, rank1: 0.714, rank2: 0.820, rank4: 0.889, rank8: 0.936, rank16: 0.965, rank32: 0.984
+iter: 4000, rank1: 0.722, rank2: 0.821, rank4: 0.891, rank8: 0.937, rank16: 0.966, rank32: 0.984
+iter: 4250, rank1: 0.720, rank2: 0.827, rank4: 0.895, rank8: 0.939, rank16: 0.969, rank32: 0.985
+iter: 4500, rank1: 0.728, rank2: 0.830, rank4: 0.899, rank8: 0.941, rank16: 0.970, rank32: 0.985
+iter: 4750, rank1: 0.734, rank2: 0.833, rank4: 0.898, rank8: 0.945, rank16: 0.971, rank32: 0.986
+iter: 5000, rank1: 0.729, rank2: 0.830, rank4: 0.897, rank8: 0.943, rank16: 0.971, rank32: 0.987
+iter: 5250, rank1: 0.729, rank2: 0.828, rank4: 0.897, rank8: 0.943, rank16: 0.973, rank32: 0.987
+iter: 5500, rank1: 0.731, rank2: 0.832, rank4: 0.900, rank8: 0.944, rank16: 0.972, rank32: 0.987
+iter: 5750, rank1: 0.731, rank2: 0.834, rank4: 0.897, rank8: 0.947, rank16: 0.972, rank32: 0.986
+iter: 6000, rank1: 0.736, rank2: 0.836, rank4: 0.901, rank8: 0.945, rank16: 0.971, rank32: 0.986
+iter: 6250, rank1: 0.739, rank2: 0.837, rank4: 0.900, rank8: 0.946, rank16: 0.971, rank32: 0.985
+iter: 6500, rank1: 0.736, rank2: 0.836, rank4: 0.901, rank8: 0.946, rank16: 0.972, rank32: 0.986
+iter: 6750, rank1: 0.738, rank2: 0.838, rank4: 0.901, rank8: 0.948, rank16: 0.973, rank32: 0.986
+iter: 7000, rank1: 0.740, rank2: 0.838, rank4: 0.902, rank8: 0.948, rank16: 0.973, rank32: 0.986
+iter: 7250, rank1: 0.739, rank2: 0.839, rank4: 0.903, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 7500, rank1: 0.739, rank2: 0.838, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 7750, rank1: 0.742, rank2: 0.838, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 8000, rank1: 0.740, rank2: 0.836, rank4: 0.900, rank8: 0.946, rank16: 0.971, rank32: 0.985
+iter: 8250, rank1: 0.739, rank2: 0.834, rank4: 0.901, rank8: 0.946, rank16: 0.973, rank32: 0.987
+iter: 8500, rank1: 0.738, rank2: 0.835, rank4: 0.901, rank8: 0.945, rank16: 0.973, rank32: 0.985
+iter: 8750, rank1: 0.737, rank2: 0.836, rank4: 0.902, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 9000, rank1: 0.738, rank2: 0.836, rank4: 0.900, rank8: 0.947, rank16: 0.974, rank32: 0.986
+iter: 9250, rank1: 0.737, rank2: 0.836, rank4: 0.901, rank8: 0.947, rank16: 0.973, rank32: 0.986
+iter: 9500, rank1: 0.737, rank2: 0.834, rank4: 0.901, rank8: 0.947, rank16: 0.973, rank32: 0.987
+iter: 9750, rank1: 0.736, rank2: 0.836, rank4: 0.900, rank8: 0.946, rank16: 0.973, rank32: 0.986
+iter: 10000, rank1: 0.737, rank2: 0.833, rank4: 0.901, rank8: 0.946, rank16: 0.972, rank32: 0.986

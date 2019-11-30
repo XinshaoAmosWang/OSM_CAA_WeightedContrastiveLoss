@@ -1,0 +1,17 @@
+net: "../M_WIDE_ASiamese_V42_e1/train.prototxt"
+#
+base_lr: 0.0005
+lr_policy: "multistep"
+gamma: 0.5
+#
+stepvalue: 500
+stepvalue: 1000
+#
+stepvalue: 1500
+stepvalue: 1501
+stepvalue: 2000
+stepvalue: 2001
+#
+#
+momentum: 0.9
+weight_decay: 0.0003
