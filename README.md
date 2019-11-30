@@ -11,7 +11,7 @@
 ## Dependencies & Setup
 The core functions are implemented in the [caffe](https://github.com/BVLC/caffe) framework. We use matlab interfaces matcaffe for data preparation. 
 
-* Clone our repository and the submodule: Simply copy and execute following commands in the command line
+* Clone our repository:
 
     ```bash
     git clone git@github.com:XinshaoAmosWang/OSM_CAA_WeightedContrastiveLoss.git
