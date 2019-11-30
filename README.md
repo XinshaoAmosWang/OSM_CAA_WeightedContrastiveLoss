@@ -83,7 +83,6 @@ Examples for reproducing our results on CARS196, CUB-200-2011, MARS, LPW are giv
         ```bash
         matlab -nodisplay -nosplash -nodesktop -r "run('train.m');exit;" | tail -n +11
         ```
-        ``matlab -nodisplay -nosplash -nodesktop -r "run('train.m');exit;" | tail -n +11``
         * Test: 
         ```bash
         matlab -nodisplay -nosplash -nodesktop -r "run('test_model.m');exit;" | tail -n +11
