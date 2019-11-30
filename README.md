@@ -47,7 +47,13 @@ The core functions are implemented in the [caffe](https://github.com/BVLC/caffe)
 * Download the corresponding data files of each dataset. 
 
 * Unzip and Copy to their corresponding training folders.
-    * 
+```bash
+rsync -a -v Data_OSM_CAA_WeightedContrastiveLoss/*V01 .
+cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./CARS196_V01/pretrain_model/
+cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./CUB_V01/pretrain_model/
+cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./MARS_V01/pretrain_model/
+cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./LPW_V01/pretrain_model/
+```
 
 
 Examples for reproducing our results on CARS196, CUB-200-2011, MARS, LPW are given. 
