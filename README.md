@@ -1,5 +1,5 @@
 
-# Deep Metric Learning by Online Soft Mining and Class-Aware Attention
+# Deep Metric Learning by Online Soft Mining and Class-Aware Attention, AAAI 2019 Oral, ML Technical Track
 
 ### [[Paper]](https://arxiv.org/pdf/1811.01459.pdf) [[Slides]](https://drive.google.com/file/d/1Z44yvdrnrjIeH8x2A4e9-r275y25piKo/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1PpCpD9HLtYJQK2tGtsgIhlr1HZ3IF8zF/view?usp=sharing)
 
