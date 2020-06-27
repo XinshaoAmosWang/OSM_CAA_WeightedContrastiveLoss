@@ -8,6 +8,22 @@
 * To make GoogLeNet V2 trainable on Single GPU (GeForce GTX 1080 Ti with 12 GB memory), we used very small batch size (54) in our experiments. **You may get better results if you use larger batch size and more powerful computational resources.** 
 
 
+## Citation
+
+If you find our code and paper make your research or work a little bit easier, it would be our great pleasure. If that is the case, please kindly cite our paper. Thanks. 
+
+```bash
+@inproceedings{wang2019deep,
+  title={Deep metric learning by online soft mining and class-aware attention},
+  author={Wang, Xinshao and Hua, Yang and Kodirov, Elyor and Hu, Guosheng and Robertson, Neil M},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={5361--5368},
+  year={2019}
+}
+```
+
+
 ## Dependencies & Setup
 The core functions are implemented in the [caffe](https://github.com/BVLC/caffe) framework. We use matlab interfaces matcaffe for data preparation. 
 
@@ -97,20 +113,7 @@ Examples for reproducing our results on CARS196, CUB-200-2011, MARS, LPW are giv
         ```
 
 
-## Citation
 
-If you find our code and paper make your research or work a little bit easier, it would be our great pleasure. If that is the case, please kindly cite our paper. Thanks. 
-
-```bash
-@inproceedings{wang2019deep,
-  title={Deep metric learning by online soft mining and class-aware attention},
-  author={Wang, Xinshao and Hua, Yang and Kodirov, Elyor and Hu, Guosheng and Robertson, Neil M},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={33},
-  pages={5361--5368},
-  year={2019}
-}
-```
 
 
 ## Acknowledgements
