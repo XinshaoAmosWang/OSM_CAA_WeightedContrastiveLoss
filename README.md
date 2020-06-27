@@ -60,7 +60,6 @@ The core functions are implemented in the [caffe](https://github.com/BVLC/caffe)
 
 ## Usage
 
-[Matlab data files and pretrained GooLeNet V2 model on ImageNet 2012](https://drive.google.com/drive/folders/1PHBiqQ8-t4DxgMgERX_eDA8LP6gayW6T?usp=sharing)
 
 * Download the corresponding data files of each dataset. 
 
@@ -73,12 +72,16 @@ cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./MARS_V01/pretr
 cp Data_OSM_CAA_WeightedContrastiveLoss/googlenet_bn.caffemodel ./LPW_V01/pretrain_model/
 ```
 
+* [LPW data preparation](https://drive.google.com/drive/folders/1ryG6DCXpDeRGlRdu29C5VaRFB7cWB_ZK?usp=sharing)
+* [MARS data preparation](https://drive.google.com/drive/folders/1LnbSqjxm9VBEpQg9NnPk2YMBpY5yNnFL?usp=sharing)
+* [googlenet_bn.caffemodel](https://drive.google.com/file/d/1nhFtq9LcPSOkn-XolGELvjzf9Yk_gFl2/view?usp=sharing)
 
-Examples for reproducing our results on CARS196, CUB-200-2011, MARS, LPW are given. 
+#### Examples for reproducing our results on CARS196, CUB-200-2011, MARS, LPW are given. 
+
 
 * Data preparation for CARS196, CUB-200-2011
     
-    Since they are small datasets, we store them into .mat files for easier use. Therefore, you can use them directly without extra effort, e.g., downloading and read them into .mat files.  
+    please refer to [Ranked List Loss](https://github.com/XinshaoAmosWang/Ranked-List-Loss-for-DML#usage), the pipeline is similar.  
 
 * Data preparation for MARS or LPW: 
     
