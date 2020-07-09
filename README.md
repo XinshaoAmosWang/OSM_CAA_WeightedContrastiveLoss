@@ -3,10 +3,13 @@
 
 ### [[Paper]](https://arxiv.org/pdf/1811.01459.pdf) [[Slides]](https://drive.google.com/file/d/1Z44yvdrnrjIeH8x2A4e9-r275y25piKo/view?usp=sharing) [[Poster]](https://drive.google.com/file/d/1PpCpD9HLtYJQK2tGtsgIhlr1HZ3IF8zF/view?usp=sharing)
 
+<!--
 * **Good news**: Inspired by some peers' interest in our work, we are glad to release our source code for exactly reproducing our results on 4 datasets. For reproducing purpose, please do not use cudnn and change our random seed. 
 
 * To make GoogLeNet V2 trainable on Single GPU (GeForce GTX 1080 Ti with 12 GB memory), we used very small batch size (54) in our experiments. **You may get better results if you use larger batch size and more powerful computational resources.** 
+-->
 
+### Code is under legal check now...
 
 ## Citation
 
