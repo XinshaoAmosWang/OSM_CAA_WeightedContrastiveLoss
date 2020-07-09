@@ -9,7 +9,7 @@
 * To make GoogLeNet V2 trainable on Single GPU (GeForce GTX 1080 Ti with 12 GB memory), we used very small batch size (54) in our experiments. **You may get better results if you use larger batch size and more powerful computational resources.** 
 -->
 
-### Code is under legal check now...
+### Code is under legal check...
 
 ## Citation
 
