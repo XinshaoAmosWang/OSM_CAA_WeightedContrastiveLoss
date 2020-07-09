@@ -1,6 +1,0 @@
-split_index:1,iter:55000, rank1:0.716931,rank5:0.898148,rank10:0.944444,rank20:0.965608
-split_index:1,iter:60000, rank1:0.694444,rank5:0.903439,rank10:0.944444,rank20:0.961640
-split_index:1,iter:65000, rank1:0.697090,rank5:0.902116,rank10:0.943122,rank20:0.965608
-
-split_index:1,iter:50000, rank1:0.689153,rank5:0.887566,rank10:0.928571,rank20:0.961640
-split_index:1,iter:50000, rank1:0.689153,rank5:0.887566,rank10:0.928571,rank20:0.961640
